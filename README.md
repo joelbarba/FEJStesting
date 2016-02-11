@@ -10,3 +10,5 @@ Testing Front End Javascript with Karma, Jasmine, and Travis CLI
 - Karma
 - Jasmine
 - Travis CLI
+
+modified by Barba
